@@ -1,8 +1,10 @@
 {
-        {
-            "id": "1",
-            "name": "astronaut",
-            "urlImage": "https://github.com/italomagnov/profile-icons/blob/main/icons/astronaut.png?raw=true",
-            "description": "astronaut flat icon"
-        }
+        "profileIcons": [
+                {
+                    "id": "1",
+                    "name": "astronaut",
+                    "urlImage": "https://github.com/italomagnov/profile-icons/blob/main/icons/astronaut.png?raw=true",
+                    "description": "astronaut flat icon"
+                }       
+        ]
 }
