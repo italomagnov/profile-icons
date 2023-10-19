@@ -1,0 +1,9 @@
+{
+    "profile-icons": [
+        {
+            "name": "astronaut",
+            "path": "./icons/astronaut.png",
+            "description": "astronaut flat icon"
+        }
+    ]
+}
