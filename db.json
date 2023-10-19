@@ -2,7 +2,7 @@
         {
             "id": "1",
             "name": "astronaut",
-            "path": "./icons/astronaut.png",
+            "urlImage": "https://github.com/italomagnov/profile-icons/blob/main/icons/astronaut.png?raw=true",
             "description": "astronaut flat icon"
         }
 }
